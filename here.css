@@ -167,16 +167,16 @@
 }
 
 .titleBar-1it3bQ:not(.typeMacOS-3V4xXE)::after {
-  content: "L̷͖͈̓͌̎̉͒͗͂̓̌̚͝O̵̧̗͕̹̼̦̗̮̱̝͆͊́́̈̿̋ͅŚ̸͙̺̥̰̯͙̭͆̏͂Ȩ̸̪̯̗̘̥̣̲̣̣͍͚͙̥̩́̀̈̆͑Ŗ̷͇̙̰̭̪̟̺̲̜̹͔̎̍́ͅ";
+  content: "𝔩𝔬𝔰𝔢𝔯";
   position: absolute;
   top: 5px;
   left: 10px;
   color: rgb(200, 10, 10);
   display: block;
-  height: 13px;
+  height: 16px;
   width: fit-content;
   pointer-events: none;
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .winButtonMinMax-3RsPUg:hover {
