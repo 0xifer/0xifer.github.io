@@ -34,6 +34,7 @@
 :root {
 	--theme-name: "Black Hole";
   --theme-version: "1.5";
+  --home-image: url('https://i.imgur.com/233d55Y.gif');
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
