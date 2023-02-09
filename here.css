@@ -171,12 +171,12 @@
   position: absolute;
   top: 5px;
   left: 10px;
-  color: rgb(170, 170, 170);
+  color: rgb(200, 10, 10);
   display: block;
-  height: 16px;
+  height: 13px;
   width: fit-content;
   pointer-events: none;
-  font-size: 14px;
+  font-size: 10px;
 }
 
 .winButtonMinMax-3RsPUg:hover {
